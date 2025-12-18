@@ -1,4 +1,4 @@
-# Bunyan – AI & Data Analytics Portfolio
+lamar-portfolio
 
 This repository showcases practical mini-projects aligned with
 PropTech and FinTech use cases, inspired by early-stage startup thinking
