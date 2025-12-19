@@ -1,21 +1,48 @@
 # Projects
 
-This section contains selected projects that demonstrate my technical skills,
-problem-solving approach, and interest areas.
+This section showcases my technical and analytical projects.
+Each project focuses on practical problem-solving and real-world applications.
 
 ---
 
-## Project Categories
-- Data Analytics and visualization projects
-- AI and machine learning experiments
-- FinTech and PropTech related case studies
-- Academic and personal technical projects
+## Project Scope
+
+Projects in this section emphasize:
+- Data-driven problem solving
+- Practical technical execution
 
 ---
 
-## Structure
-Each project may include:
-- Problem statement
+## Project Structure
+
+Each project includes:
+- Problem definition and objective
 - Tools and technologies used
-- Key outcomes and learnings
-- Links to code or demos (if available)
+- Key outcomes or learnings
+- Project status and future scope
+
+---
+
+## Selected Projects
+
+### 1. Project Title
+- Description: Brief explanation of the problem and solution
+- Domain: AI, Data Analytics, FinTech, or PropTech
+- Tools: Programming languages, libraries, or platforms used
+- Outcome: Key result or insight achieved
+
+---
+
+### 2. Project Title
+- Description: Brief explanation of the problem and solution
+- Domain: AI, Data Analytics, FinTech, or PropTech
+- Tools: Programming languages, libraries, or platforms used
+- Outcome: Key result or insight achieved
+
+---
+
+## Project Status
+
+Projects are categorized as:
+- Completed projects
+- In-progress or exploratory projects
