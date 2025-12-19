@@ -30,7 +30,7 @@
 
 ---
 
-## Roshnathon (ROSHN Group)
+## Tuwaiq Roshn Hackathon 
 (Real Estate & Urban Development Hackathon)
 
 - Participated in a PropTech-focused hackathon organized by ROSHN Group.
