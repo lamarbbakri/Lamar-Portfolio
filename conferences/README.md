@@ -17,15 +17,3 @@
 #### Money20/20 Middle East (Riyadh)
 - Attended a leading FinTech conference in the region.
 - Gained exposure to financial innovation, digital payments, and startup ecosystems.
-
----
-
-### Bootcamps & Training Programs
-
-#### Nawah Cybersecurity Program (Enjaz IMAMU)
-- Delivered and participated in cybersecurity training sessions for beginners.
-- Covered operating systems fundamentals and core digital security concepts.
-
-#### Tahseen Cybersecurity Bootcamp (Enjaz Club – IMAMU)
-- Participated in an intensive cybersecurity bootcamp focused on Linux foundations.
-- Worked on hands-on exercises related to SOC operations and real-world security use cases.
