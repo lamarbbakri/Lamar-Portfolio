@@ -5,6 +5,17 @@ I focus on building practical, real-world solutions through data-driven thinking
 
 ---
 
+## Portfolio Sections
+
+- **Startup**
+- **Projects**
+- **Certifications**
+- **Meetups**
+- **Conferences**
+- **Hackathons**
+
+---
+
 ## About Me
 - Computer Science student with a passion for applied AI and data analytics  
 - Interested in solving real-world problems using technology and innovation  
